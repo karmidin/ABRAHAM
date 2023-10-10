@@ -15,7 +15,7 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:background="@color/introPrimary"
-            android:title="Tentang"
+            android:title="About"
             android:titleTextColor="@color/white" />
 
         <androidx.core.widget.NestedScrollView
@@ -31,7 +31,7 @@
                 <TextView
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:text="@string/judul"
+                    android:text="How to use the app"
                     android:gravity="center_horizontal"
                     android:textColor="@color/black"
                     android:textSize="22sp"
@@ -51,7 +51,7 @@
                         android:layout_width="0dp"
                         android:layout_weight="90"
                         android:layout_height="wrap_content"
-                        android:text="Pilih menu yang ingin digunakan"
+                        android:text="Choose the menu you want to use"
                         android:justificationMode="inter_word"
                         android:textColor="@color/black"/>
                 </LinearLayout>
@@ -70,7 +70,7 @@
                         android:layout_width="0dp"
                         android:layout_weight="90"
                         android:layout_height="wrap_content"
-                        android:text="Jika Anda memilih menu Dashboard, maka Anda diminta untuk memilih kriteria klinik / rumah sakit yang tersedia sesuai yang Anda inginkan. Sistem akan melakukan proses pemilihan rekomendasi menggunakan metode Multi-Objective Optimization on the Basis of Ration Analysis (MOORA)"
+                        android:text="If you select the Dashboard menu, then you are asked to select the available clinic / hospital criteria as you wish. The system will perform the recommendation selection process using the Multi-Objective Optimization on the Basis of Ration Analysis (MOORA) method."
                         android:justificationMode="inter_word"
                         android:textColor="@color/black"/>
                 </LinearLayout>
@@ -88,7 +88,7 @@
                         android:layout_width="0dp"
                         android:layout_weight="90"
                         android:layout_height="wrap_content"
-                        android:text="Jika Anda memilih menu Klinik, sistem akan menampilkan daftar klinik / rumah sakit yang tersedia pada aplikasi ini."
+                        android:text="If you select the Clinic menu, the system will display a list of clinics/hospitals available on this application."
                         android:justificationMode="inter_word"
                         android:textColor="@color/black"/>
 
@@ -107,7 +107,7 @@
                         android:layout_width="0dp"
                         android:layout_weight="90"
                         android:layout_height="wrap_content"
-                        android:text="Kemudian, Anda dapat memilih salah satu klinik / rumah sakit yang tersedia sesuai yang Anda inginkan. Sistem akan melakukan proses pencarian jalur terpendek dari lokasi Anda (berdasarkan GPS) menuju ke klinik / rumah sakit tersebut melalui peta."
+                        android:text="Then, you can select one of the available clinics/hospitals as you wish. The system will search for the shortest path from your location (based on GPS) to the clinic/hospital via the map."
                         android:justificationMode="inter_word"
                         android:textColor="@color/black"/>
                 </LinearLayout>

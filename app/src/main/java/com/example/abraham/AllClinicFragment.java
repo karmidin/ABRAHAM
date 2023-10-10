@@ -111,7 +111,7 @@ public class AllClinicFragment extends Fragment {
         View root = inflater.inflate(R.layout.fragment_all_clinic, container, false);
 
         toolbar = root.findViewById(R.id.toolbar);
-        toolbar.setTitle("Daftar Rumah Sakit / Klinik");
+        toolbar.setTitle("List of Hospitals/Clinics");
 
         listView = root.findViewById(R.id.listView);
 
