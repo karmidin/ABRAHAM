@@ -23,16 +23,16 @@ public class DataKriteria {
             },
             // layanan
             {
-                "> 4 layanan", // 4
-                "3 layanan", // 3
-                "2 layanan", // 2
-                "< 1 layanan" // 1
+                "> 4", // 4
+                "3", // 3
+                "2", // 2
+                "< 1" // 1
             },
             // fasilitas
             {
-                "Kamar Biasa", // 3
-                "Kamar Kelas 1", // 2
-                "Kamar Kelas VIP" // 1
+                "Regular Room", // 3
+                "1st Class Room", // 2
+                "VIP Room" // 1
             },
             // jarak
             {
