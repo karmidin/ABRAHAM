@@ -87,7 +87,7 @@
             android:id="@+id/rute"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:text="Rute"
+            android:text="Route"
             android:textColor="@color/black"
             android:textAllCaps="false"
             android:textSize="14dp"
