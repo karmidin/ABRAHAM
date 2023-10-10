@@ -17,7 +17,7 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:background="@color/introPrimary"
-            android:title="Rekomendasi Klinik / Rumah Sakit"
+            android:title="Clinic/Hospital Recommendation"
             android:titleTextColor="@color/white"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
