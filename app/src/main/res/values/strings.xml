@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ABRAHAM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">AIzaSyA1MgLuZuyqR_OGY3ob3M52N46TDBRI_9k</string>
+
+    <string name="judul"><u><b>Cara Penggunaan Aplikasi</b></u></string>
+    <string name="konteks">
+        <ol>
+            <li>Pilih menu yang ingin digunakan</li>
+            <li>Pilih menu yang ingin digunakan</li>
+            <li>Pilih menu yang ingin digunakan</li>
+        </ol>
+    </string>
+</resources>
